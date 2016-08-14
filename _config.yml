@@ -1,4 +1,3 @@
-layout_spectrum: 0.9705562561284751
 typography_spectrum: 0.03581913444213569
 color:
   brandStrength: 0.9642012387048453
@@ -6,9 +5,11 @@ color:
   saturation: 0.6665367693640292
   rhythmicContrast: 0.7016773179639131
   brandColors:
-    - '#CFC291'
-    - '#FFF6C5'
-    - '#A1E8D9'
-    - '#FF712C'
-    - '#695D46'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.9705562561284751
 name: Hunger & Ransom
+title: Northern Michigan Vacation Lodging
